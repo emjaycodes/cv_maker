@@ -13,4 +13,4 @@
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/emjaycodes/your-repo.git
